@@ -7,8 +7,6 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-    "lint": "next lint",
-    "test": "jest"
   },
   "dependencies": {
     "next": "14.1.0",
@@ -18,13 +16,8 @@
   "devDependencies": {
     "typescript": "^5.3.3",
     "@types/react": "^18.2.7",
-    "@testing-library/react": "^16.3.0",
     "@types/node": "^20.11.30",
-    "@types/react": "^18.2.7",
     "eslint": "^8.56.0",
     "eslint-config-next": "^14.1.0"
-    "eslint-config-next": "^14.1.0",
-    "jest": "^30.0.4",
-    "typescript": "^5.3.3"
   }
 }
