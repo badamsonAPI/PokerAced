@@ -1,0 +1,2 @@
+import Layout from '../../components/Layout'
+export default function Canada() { return <Layout><h1>Best Poker Sites in Canada</h1><p>Our top picks: PokerStars, GGPoker, and BetOnline — all support CAD deposits.</p></Layout>; }

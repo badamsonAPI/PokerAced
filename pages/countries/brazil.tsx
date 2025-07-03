@@ -1,0 +1,2 @@
+import Layout from '../../components/Layout'
+export default function Brazil() { return <Layout><h1>Melhores Sites de Poker no Brasil</h1><p>Aproveite bônus incríveis em GGPoker e Stake.com, ambos aceitam BRL e criptomoedas.</p></Layout>; }

@@ -1,0 +1,2 @@
+import Layout from '../../components/Layout'
+export default function BlogPost() { return <Layout><h1>Top Crypto Poker Rooms</h1><p>Stake and CoinPoker lead the way in anonymous, crypto-based online poker.</p></Layout>; }
