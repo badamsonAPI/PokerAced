@@ -1,1 +1,0 @@
-export default function Layout({ children }) { return <div style={{background:'#0d0d0d',color:'#fff',padding:'2rem'}}>{children}</div>; }
