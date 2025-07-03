@@ -1,2 +1,0 @@
-import Layout from '../../components/Layout'
-export default function Stake() { return <Layout><h1>Stake Poker Review</h1><p>Stake.com is a leading crypto poker room with instant deposits and no KYC for most countries.</p></Layout>; }

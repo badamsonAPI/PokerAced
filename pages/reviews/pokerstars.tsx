@@ -1,2 +1,0 @@
-import Layout from '../../components/Layout'
-export default function PokerStars() { return <Layout><h1>PokerStars Review</h1><p>The world's most recognizable poker site with strong tournaments and global reach.</p></Layout>; }

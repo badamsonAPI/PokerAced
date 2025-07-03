@@ -1,2 +1,0 @@
-import Layout from '../../components/Layout'
-export default function BlogPost() { return <Layout><h1>How Rakeback Works in Online Poker</h1><p>Rakeback gives you cashback on every pot you play — learn how to calculate your ROI.</p></Layout>; }

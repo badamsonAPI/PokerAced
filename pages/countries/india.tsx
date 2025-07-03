@@ -1,2 +1,0 @@
-import Layout from '../../components/Layout'
-export default function India() { return <Layout><h1>Best Poker Sites in India</h1><p>GGPoker and PokerStars support INR deposits and host local tournaments.</p></Layout>; }

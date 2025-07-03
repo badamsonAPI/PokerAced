@@ -1,2 +1,0 @@
-import Layout from '../../components/Layout'
-export default function GGPoker() { return <Layout><h1>GGPoker Review</h1><p>GGPoker offers a massive $600 bonus for new players, accepts crypto, and supports global tournaments.</p></Layout>; }

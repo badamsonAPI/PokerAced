@@ -1,2 +1,0 @@
-import Layout from '../../components/Layout'
-export default function BlogPost() { return <Layout><h1>Best Online Poker Sites in 2025</h1><p>Explore the top-rated poker sites by bonuses, user experience, and global accessibility.</p></Layout>; }
